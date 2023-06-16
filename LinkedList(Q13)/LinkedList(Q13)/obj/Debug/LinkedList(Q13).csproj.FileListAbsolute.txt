@@ -1,0 +1,8 @@
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\obj\Debug\LinkedList(Q13).csproj.AssemblyReference.cache
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\obj\Debug\LinkedList(Q13).csproj.SuggestedBindingRedirects.cache
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\obj\Debug\LinkedList(Q13).csproj.CoreCompileInputs.cache
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\bin\Debug\LinkedList(Q13).exe.config
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\bin\Debug\LinkedList(Q13).exe
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\bin\Debug\LinkedList(Q13).pdb
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\obj\Debug\LinkedList(Q13).exe
+C:\New folder\task(2)\Task2\LinkedList(Q13)\LinkedList(Q13)\obj\Debug\LinkedList(Q13).pdb
